@@ -21,13 +21,29 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,reactjs,nodejs,expressjs,nextjs)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,nextjs)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify,replit,)](https://skillicons.dev)
 
 
 <br/>
+
+---
+
+
+# <h3 align="center">🏅 My GitHub Stats 🏅</h3>
+<!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyarajbag&layout=compact&theme=dark#gh-dark-mode-only">
+<img src="https://github-readme-stats.vercel.app/api?username=soumyarajbag&show_icons=true&include_all_commits=true&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumyarajbag&theme=dark">
+</div>
+
+<div align="center">
+<h3 align="center">🏆 My Github Trophies 🏆</h3>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=soumyarajbag&theme=onedark">
+</div>
