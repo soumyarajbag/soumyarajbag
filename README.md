@@ -1,3 +1,5 @@
+![logo](https://github.com/soumyarajbag/soumyarajbag/blob/main/Soumyaraj_Bag_Poster.png)
+
 ### Hi there 👋
 
 <!--
