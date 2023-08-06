@@ -36,7 +36,7 @@
 
 
 # <h3 align="center">🏅 My GitHub Stats 🏅</h3>
-<!--  <div aligh="center">![Profile views](https://gpvc.arturio.dev/arghyadutta080)</div> -->
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumyarajbag&layout=compact&theme=dark#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=soumyarajbag&show_icons=true&include_all_commits=true&theme=dark">
