@@ -16,6 +16,18 @@
 <br>
 
 ---
+# <h3 align="left">📧 I am also available here: <h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/soumyaraj-bag-037486135/" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
+<a href="https://www.facebook.com/TheSoumyarajBag/" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
+<a href="https://www.instagram.com/soumyarajbag/" target="blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a>
+<a href="discordapp.com/users/soumyarajbag" target="blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=6B00B3'/></a>
+
+</p>
+
+<br>
+
+---
 
 ### Languages 🛠 
 [![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
