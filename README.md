@@ -30,7 +30,7 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
 [![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,nextjs)](https://skillicons.dev)
