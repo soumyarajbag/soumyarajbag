@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarajbag&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarajbag" /> </p>
 <h1 align="center">Hi 👋, I'm Soumyaraj Bag</h1>
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
-<h3 align="center">IT Undergrad & A Passionate Software Development Enthusiast !</h3>
+<h3 align="center">CS Undergrad & A Passionate Software Development Enthusiast !</h3>
 
-- 📚 I'm a Sophomore IT Student at **RCC Institute of Information Technology**.
+- 📚 I'm a Sophomore CSE Student at **RCC Institute of Information Technology**.
 - 🌱 I’m currently working on **Web and App Development** domain.
 - 💬 Ask me about **MERN , React-Native** .
 - 👯 I’m looking for Internships .  
