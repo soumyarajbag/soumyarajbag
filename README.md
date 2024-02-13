@@ -33,13 +33,13 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,js,ts)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,nextjs)](https://skillicons.dev)
+[![My Development](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,react,mui,nodejs,expressjs,flask,fastapi,nextjs)](https://skillicons.dev)
 
 ### Databases and Cloud Platforms 🛠 
-[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase)](https://skillicons.dev)
+[![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase,appwrite)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify,replit,)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify,replit)](https://skillicons.dev)
 
 
 <br/>
