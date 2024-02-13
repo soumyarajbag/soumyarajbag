@@ -59,3 +59,7 @@
 <h3 align="center">🏆 My Github Trophies 🏆</h3>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=soumyarajbag&theme=onedark">
 </div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/soumyarajbag/soumyarajbag/output/snake.svg" alt="Snake animation" />
+</div>
