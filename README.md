@@ -39,7 +39,7 @@
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase,firebase,appwrite)](https://skillicons.dev)
 
 ### IDEs and Tools
-[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,postman,git,github,vercel,netlify,replit)](https://skillicons.dev)
+[![My IDEs and Tools](https://skillicons.dev/icons?i=vscode,npm,postman,docker,git,github,vercel,netlify,replit)](https://skillicons.dev)
 
 
 <br/>
